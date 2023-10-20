@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://akekyzst.github.io'
-baseurl:          '/project'
+url:              'https://mooyizz.github.io'
+baseurl:          '/project-main'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
